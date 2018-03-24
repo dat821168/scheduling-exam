@@ -6,6 +6,12 @@ This is a program written for the purpose of practicing java language and applyi
 
 Import 2 file "DanhSachPhongThi.xlsx" and "KetQuaDangKyMonHoc.xlsx" as input
 
-## Docs
-
-<img src="image/scheduling 1.png"/
+## Steps
+Import "KetQuaDangKyMonHoc.xlsx"
+<img src="Image/scheduling 1.PNG"/>
+Import "DanhSachPhongThi.xlsx"
+<img src="Image/scheduling 2.PNG"/>
+Provide Exam information
+<img src="Image/scheduling 3.PNG"/>
+Result
+<img src="Image/scheduling 4.PNG"/>
